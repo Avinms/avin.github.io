@@ -1,0 +1,21 @@
+body{
+	background-image: url(brown.jpg);
+
+
+}
+.col-md-4{
+	margin-top: 50px;
+}
+.row {
+	color:white;
+	margin-top: 100px;
+}
+.row .jumbotron {
+	color:black;
+	
+	
+}
+	
+footer{
+	color: white;
+}
